@@ -1,6 +1,7 @@
 const translations = {
 ar: {demoCta:"جرّب البرنامج",
-tagline:"محلل البيانات الذكي",navCta:"شاهد العرض",eyebrow:"حل ذكي لتحليل البيانات",
+tagline:"محلل البيانات الذكي",
+developerCredit:"إدريس بلوالي — متصرف تربوي — صاحب ومطور برنامج Excel Intelligence — تصميم وتطوير الموقع",navCta:"شاهد العرض",eyebrow:"حل ذكي لتحليل البيانات",
 heroTitle:'حوّل بياناتك إلى <em>رؤى واضحة</em> وقرارات أذكى',heroText:"حلّل ملفات Excel وCSV، استكشف بياناتك، وأنشئ تصورات وتقارير تساعدك على فهم الأرقام بسهولة.",
 heroCta:'شاهد فيديو البرنامج <span aria-hidden="true">←</span>',heroMore:"اكتشف المميزات",heroNote:"واجهة متعددة اللغات • تجربة سهلة • مناسب للاستخدام اليومي",
 floatTitle:"رؤية أوضح",floatText:"بيانات منظمة بصرياً",stripOne:"تحليل البيانات",stripTwo:"تصور بصري",stripThree:"تقارير عملية",stripFour:"ثلاث لغات",
@@ -9,10 +10,10 @@ feature1Title:"استيراد البيانات",feature1Text:"ابدأ بملف�
 showcaseEyebrow:"شاهد البرنامج",showcaseTitle:"تعرّف على تجربة الاستخدام",showcaseText:"شاهد كيف يساعدك Excel Intelligence على استكشاف البيانات وتحليلها وتحويل النتائج إلى رسوم وتقارير واضحة.",showcaseBullet1:"عرض بصري مباشر للواجهة",showcaseBullet2:"شرح مختصر لأهم خطوات الاستخدام",showcaseBullet3:"محتوى مناسب للغة التي يختارها الزائر",videoPlaceholder:"مساحة فيديو العرض",mediaCaption:"فيديو العرض باللغة العربية",
 galleryEyebrow:"من داخل البرنامج",galleryTitle:"لقطات من الواجهة",galleryText:"اختر لغة الموقع لمشاهدة لقطات الواجهة باللغة نفسها.",screenOne:"لوحة القيادة",screenTwo:"تحليل البيانات",screenThree:"التقارير والرسوم",
 priceEyebrow:"سعر مناسب",priceTitle:"أدوات عملية بتكلفة اقتصادية",priceText:"ضع السعر النهائي وطريقة الحصول على البرنامج هنا. يمكنك تعديل هذه المعلومات لاحقاً بسهولة.",pricePlaceholder:"السعر يحدد لاحقاً",priceNote:"تواصل معنا لمعرفة تفاصيل الشراء",priceCta:"اطلب البرنامج",
-contactEyebrow:"اكتشف البرنامج",contactTitle:"اجعل بياناتك أوضح مع Excel Intelligence",contactText:"شاهد فيديو العرض وتعرّف على طريقة عمل البرنامج وأبرز إمكانياته.",emailCta:"شاهد العرض التوضيحي",contactHint:"استبدل البريد الإلكتروني بعنوانك الحقيقي داخل index.html",copyright:"© 2026 Excel Intelligence. جميع الحقوق محفوظة."
+contactEyebrow:"اكتشف البرنامج",contactTitle:"اجعل بياناتك أوضح مع Excel Intelligence",contactText:"شاهد فيديو العرض وتعرّف على طريقة عمل البرنامج وأبرز إمكانياته.",emailCta:"تحميل البرنامج",contactHint:"استبدل البريد الإلكتروني بعنوانك الحقيقي داخل index.html",copyright:"© 2026 Excel Intelligence. جميع الحقوق محفوظة."
 },
 fr: {demoCta:"Essayer la démo",
-tagline:"L’analyseur intelligent de données",navCta:"Voir la présentation",eyebrow:"Une solution intelligente d’analyse de données",
+tagline:"L’analyseur intelligent de données",developerCredit:"Idriss Boulouali — Administrateur pédagogique — Créateur et développeur du logiciel Excel Intelligence",navCta:"Voir la présentation",eyebrow:"Une solution intelligente d’analyse de données",
 heroTitle:'Transformez vos données en <em>informations claires</em> et en décisions plus pertinentes',heroText:"Analysez vos fichiers Excel et CSV, explorez vos données et créez des visualisations et des rapports pour mieux comprendre vos chiffres.",
 heroCta:'Voir la vidéo du logiciel <span aria-hidden="true">→</span>',heroMore:"Découvrir les fonctionnalités",heroNote:"Interface multilingue • Prise en main simple • Pour un usage quotidien",
 floatTitle:"Une vision claire",floatText:"Données visualisées",stripOne:"Analyse des données",stripTwo:"Visualisation",stripThree:"Rapports pratiques",stripFour:"Trois langues",
@@ -21,10 +22,10 @@ feature1Title:"Importation des données",feature1Text:"Importez vos fichiers Exc
 showcaseEyebrow:"Découvrez le logiciel",showcaseTitle:"Explorez l’expérience utilisateur",showcaseText:"Découvrez comment Excel Intelligence vous aide à explorer et analyser vos données, puis à présenter les résultats sous forme de graphiques et de rapports clairs.",showcaseBullet1:"Présentation visuelle de l’interface",showcaseBullet2:"Explication rapide des principales étapes",showcaseBullet3:"Contenu adapté à la langue choisie",videoPlaceholder:"Emplacement de la vidéo",mediaCaption:"Vidéo de présentation en français",
 galleryEyebrow:"À l’intérieur du logiciel",galleryTitle:"Aperçu de l’interface",galleryText:"Choisissez la langue du site pour voir les captures correspondantes.",screenOne:"Tableau de bord",screenTwo:"Analyse des données",screenThree:"Rapports et graphiques",
 priceEyebrow:"Prix accessible",priceTitle:"Des outils pratiques à prix économique",priceText:"Ajoutez ici le prix final et les modalités d’obtention du logiciel. Vous pourrez modifier ces informations facilement.",pricePlaceholder:"Prix à définir",priceNote:"Contactez-nous pour les modalités d’achat",priceCta:"Commander le logiciel",
-contactEyebrow:"Découvrez le logiciel",contactTitle:"Donnez plus de clarté à vos données avec Excel Intelligence",contactText:"Regardez la présentation et découvrez le fonctionnement et les principales possibilités du logiciel.",emailCta:"Voir la démonstration",contactHint:"Remplacez l’adresse e-mail dans index.html par votre adresse réelle",copyright:"© 2026 Excel Intelligence. Tous droits réservés."
+contactEyebrow:"Découvrez le logiciel",contactTitle:"Donnez plus de clarté à vos données avec Excel Intelligence",contactText:"Regardez la présentation et découvrez le fonctionnement et les principales possibilités du logiciel.",emailCta:"Télécharger le logiciel",contactHint:"Remplacez l’adresse e-mail dans index.html par votre adresse réelle",copyright:"© 2026 Excel Intelligence. Tous droits réservés."
 },
 en: {demoCta:"Try the demo",
-tagline:"The Intelligent Data Analyst",navCta:"Watch the demo",eyebrow:"A smarter way to analyze data",
+tagline:"The Intelligent Data Analyst",developerCredit:"Idriss Boulouali — Educational Administrator — Creator and Developer of Excel Intelligence",navCta:"Watch the demo",eyebrow:"A smarter way to analyze data",
 heroTitle:'Turn your data into <em>clear insights</em> and smarter decisions',heroText:"Analyze Excel and CSV files, explore your data, and create visualizations and reports that make your numbers easier to understand.",
 heroCta:'Watch the product video <span aria-hidden="true">→</span>',heroMore:"Explore features",heroNote:"Multilingual interface • Easy to use • Built for everyday work",
 floatTitle:"Clearer insights",floatText:"Data made visual",stripOne:"Data analysis",stripTwo:"Visualization",stripThree:"Practical reports",stripFour:"Three languages",
@@ -33,7 +34,7 @@ feature1Title:"Data import",feature1Text:"Start with Excel and CSV files and wor
 showcaseEyebrow:"See the software",showcaseTitle:"Explore the user experience",showcaseText:"See how Excel Intelligence helps you explore and analyze your data, then present your findings through clear charts and reports.",showcaseBullet1:"A visual tour of the interface",showcaseBullet2:"A short guide to the main steps",showcaseBullet3:"Content adapted to the visitor’s selected language",videoPlaceholder:"Product video area",mediaCaption:"English product presentation video",
 galleryEyebrow:"Inside the software",galleryTitle:"Interface previews",galleryText:"Choose the site language to view matching interface screenshots.",screenOne:"Dashboard",screenTwo:"Data analysis",screenThree:"Reports and charts",
 priceEyebrow:"Affordable pricing",priceTitle:"Practical tools at an accessible price",priceText:"Add the final price and instructions for getting the software here. You can easily update this information later.",pricePlaceholder:"Price to be announced",priceNote:"Contact us for purchase details",priceCta:"Get the software",
-contactEyebrow:"Discover the software",contactTitle:"Make your data clearer with Excel Intelligence",contactText:"Watch the presentation and discover how the software works and what it can do.",emailCta:"Watch the demonstration",contactHint:"Replace the email address in index.html with your real address",copyright:"© 2026 Excel Intelligence. All rights reserved."
+contactEyebrow:"Discover the software",contactTitle:"Make your data clearer with Excel Intelligence",contactText:"Watch the presentation and discover how the software works and what it can do.",emailCta:"Download the software",contactHint:"Replace the email address in index.html with your real address",copyright:"© 2026 Excel Intelligence. All rights reserved."
 }
 };
 
